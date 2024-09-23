@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="dbConnection/|gui/|objects/" kind="src" path="src"/>
+	<classpathentry kind="src" path="Icons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/sqlite-tools-win32-x86-3380000.zip"/>
+	<classpathentry kind="var" path="org.sqlite.JDBC"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/SqliteJdbcDriver/sqlite-jdbc-3.36.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
